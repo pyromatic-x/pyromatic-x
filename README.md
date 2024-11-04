@@ -2,7 +2,6 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Saint-Petersburg
-* 🖥️  See my portfolio at [pyromatic.me](http://pyromatic.me/)
 * ✉️  You can contact me at [hvdraxx@gmail.com](mailto:hvdraxx@gmail.com)
 
 <p align="left">
